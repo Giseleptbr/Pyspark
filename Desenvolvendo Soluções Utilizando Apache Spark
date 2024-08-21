@@ -1,3 +1,11 @@
+# Dados do mercado financeiro são interessantes e ricos: cada ação negociada na
+bolsa de valores tem um preço que varia a cada dia. Você foi contratado como
+cientista de dados de uma empresa de Wall Street para criar modelos preditivos
+que, a partir da variação diária do preço das ações, consigam subsidiar e melhorar
+decisões de compra e venda de ações. Você disse que, como todo bom cientista de dados, 
+gostaria de explorar os dados para entender suas características antes de
+criar qualquer modelo preditivo.
+
 {
   "cells": [
     {
